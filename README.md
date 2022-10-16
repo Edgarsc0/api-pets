@@ -1,4 +1,5 @@
 <h1>API DE ALOJAMIENTO DE MASCOTAS</h1>
+<h3>Realizó SANCHEZ CATARINO EDGAR</h3>
 <strong>GET: /pets</strong>
 GET: https://api-pets-production.up.railway.app/pets
 <br>
